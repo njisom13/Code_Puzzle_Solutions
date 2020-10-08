@@ -1,0 +1,1 @@
+First solution to a codeforces problem. Too verbose, fails second test (overflow?). Revisit!
